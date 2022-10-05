@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
  /**
-  * free_grid - frees a 2d integer grid previously created by alloc_grid
+  * free_grid -   frees the dimensional grid previously created.
   * @grid: The 2-dimensional array of integers to be freed.
   * @height: The height of grid.
   */
