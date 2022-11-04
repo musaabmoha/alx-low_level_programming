@@ -3,7 +3,7 @@
 
 /*
  * File: main.h
- * Auth: Musa Skuru
+ * Auth: Musab muhammad
  * Desc: Header file containing prototypes for all functions
  *       written in the 0x15-file_io directory.
  */
